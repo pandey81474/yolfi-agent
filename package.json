@@ -1,6 +1,6 @@
 {
   "name": "yolfi-agent",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
   "main": "src/index.js",
   "scripts": {
